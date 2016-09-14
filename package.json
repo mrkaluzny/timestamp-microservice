@@ -1,0 +1,26 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "Timestamp microservice build as a part of free code camp.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkaluzny/timestamp-microservice.git"
+  },
+  "keywords": [
+    "timestamp",
+    "microservice",
+    "free",
+    "code",
+    "camp"
+  ],
+  "author": "mrkaluzny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkaluzny/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/mrkaluzny/timestamp-microservice#readme"
+}
