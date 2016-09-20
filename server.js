@@ -1,5 +1,5 @@
 var express = require('express'),
-    port = 8080,
+    port = process.env.PORT || 8080,
     path = require('path'),
     moment = require('moment'),
     app = express();
